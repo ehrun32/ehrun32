@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Data Structure and Algorithms, API's and AWS**
 
 - 📫 How to reach me **aruncheriakara@gmail.com**
-- 👨‍💻 All of my projects are available at [https://ehrun32.github.io/](https://ehrun32.github.io/)
+- 👨‍💻 All of my projects are available at on my [website](https://ehrun32.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
