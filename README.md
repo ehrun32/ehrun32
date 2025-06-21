@@ -5,12 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehrun32&label=Profile%20views&color=0e75b6&style=flat" alt="ehrun32" /> </p>
 
-- 🔭 I’m currently working on **Web Development Applications**
-
-- 🌱 I’m currently learning **Data Structure and Algorithms, API's and AWS**
-
-- 📫 How to reach me **aruncheriakara@gmail.com**
-- 👨‍💻 All of my projects are available at on my [website](https://ehrun32.github.io/)
+- I’m currently working on **Web Development Applications**
+- I’m currently learning **Data Structure and Algorithms, API's and AWS**
+- How to reach me **aruncheriakara@gmail.com**
+- All of my projects are available at on my [website](https://ehrun32.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
